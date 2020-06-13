@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
         //drawer: _buildDrawer(),
         appBar: AppBar(
           title: Text(
-            "ToDo",
+            "Todo",
             style: TextStyle(fontSize: 30.0, color: Colors.white),
           ),
           centerTitle: true,
