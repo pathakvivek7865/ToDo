@@ -4,7 +4,7 @@ import 'package:scoped_model/scoped_model.dart';
 import '../../scoped_models/scoped_todo.dart';
 import '../../widgets/todo/todo_card.dart';
 
-const String testDevice = 'E6E0A298E3FE01531B1273B580B9D8F6';
+// const String testDevice = 'E6E0A298E3FE01531B1273B580B9D8F6';
 
 class TodoList extends StatefulWidget {
   @override
